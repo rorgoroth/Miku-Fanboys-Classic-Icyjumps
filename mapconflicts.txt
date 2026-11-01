@@ -1,0 +1,5 @@
+// Map Conflicts
+
+ut4_PwnZ_icyjumps_B1 CONFLICTS WITH ut4_icyworld1b.pk3
+
+ut43_icyunleashed.pk3 com_hunkmegs limit (128+)

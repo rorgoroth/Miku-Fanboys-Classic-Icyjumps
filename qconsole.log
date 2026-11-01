@@ -1,0 +1,1318 @@
+logfile opened on Thu Aug 20 06:00:09 2026
+
+g_gametype will be changed upon reloading.
+------ Server Initialization ------
+Server: icy_phenom
+Hunk_Clear: reset the hunk ok
+Current search path:
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_qvm.pk3 (4 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_021.pk3 (85 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_020.pk3 (295 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_019.pk3 (342 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_018.pk3 (801 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_017.pk3 (734 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_016.pk3 (487 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_015.pk3 (60 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_014.pk3 (510 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_013.pk3 (353 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_012.pk3 (271 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_011.pk3 (478 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_010.pk3 (1423 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_009.pk3 (476 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_008.pk3 (962 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_007.pk3 (368 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_006.pk3 (553 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_005.pk3 (898 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_004.pk3 (558 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_003.pk3 (53 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_002.pk3 (100 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_001.pk3 (759 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut4_smoothicyb8f.pk3 (168 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut4_icyuniverse_b5.pk3 (298 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut4_icykarnival_b1y.pk3 (239 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut4_icygalaxy1a.pk3 (218 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut4_icyacer_b2.pk3 (362 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut4_icecoldicy004.pk3 (255 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut4_blackicy_beta1_0.pk3 (144 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_simonced_icy_b1.pk3 (178 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_pwnz_icyjumps_b1.pk3 (33 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_psychedelic.pk3 (134 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_infinityicy_b1.pk3 (249 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_icyworld1b.pk3 (300 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_icyunleashed.pk3 (146 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_icysequel1a.pk3 (90 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_icyjumps5d.pk3 (271 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_icyfunspot.pk3 (386 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_icyfantasy1a.pk3 (134 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_cosmic_icyjumps_b2.pk3 (132 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_comedyworld_icyjumps_b3.pk3 (263 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\simonced_icy21.pk3 (178 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\icy_phenom.pk3 (106 files)
+D:\Pingperfect\Users\rayg\7268019/q3ut4
+D:\Pingperfect\Users\rayg\7268019/q3ut4/download
+
+handle 1: qconsole.log
+----------------------
+29708 files in pk3 files
+Loading vm file vm/qagame.qvm...
+VM file qagame compiled to 2311993 bytes of code
+qagame loaded in 68304480 bytes on the hunk
+------- Game Initialization -------
+name: q3urt43
+version: 4.3.4
+date: Jun 18 2018
+------------------------------------------------------------
+InitGame: \sv_allowdownload\1\g_matchmode\0\g_gametype\9\sv_maxclients\8\sv_floodprotect\0\capturelimit\0\sv_hostname\Miku_Fanboy Classic Icy Jumps\g_followstrict\0\fraglimit\0\timelimit\60\g_swaproles\0\g_roundtime\2\g_hotpotato\1\g_waverespawns\0\g_redwave\5\g_bluewave\5\g_respawndelay\1\g_suddendeath\0\g_maxrounds\0\g_friendlyfire\0\g_allowvote\536870914\g_armbands\0\g_funstuff\1\g_instagib\0\g_stamina\1\g_walljumps\3\g_stratTime\5\g_nameBlue\Ukraine\g_nameRed\Russia\g_deadchat\2\g_maxGameClients\0\g_skins\1\auth_owners\1485\auth_notoriety\0\auth_enable\1\sv_dlURL\http://redirect.pingperfecthosting.com/7268019/\sv_clientsPerIp\3\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_minRate\0\version\ioQ3 1.35 urt 4.3.4 win-x86 Jun  6 2018\protocol\68\mapname\icy_phenom\sv_privateClients\0\ Admin\PureFilth  \ Email\purefilth @ urbanterror forums\gamename\q3urt43\g_needpass\0\g_enableDust\0\g_enableBreath\0\g_antilagvis\0\g_survivor\0\g_enablePrecip\0\auth\0\auth_status\init\g_modversion\4.3.4
+0 teams with 0 entities
+^3Warning: Not enough spawn groups to for gametype (9) on this map, trying another gametype
+-----------------------------------
+auth: resolving authserver address 
+auth: resolved 
+InitAuth: \auth\0\auth_status\init\auth_cheaters\0\auth_tags\0\auth_notoriety\0\auth_groups\\auth_owners\1485\auth_verbosity\0
+auth: sending heartbeat 
+broadcast: print "Server: auth changed to 1\n"
+broadcast: print "Server: auth_status changed to public\n"
+-----------------------------------
+Hitch warning: 258806832 msec frame time
+auth: sending heartbeat 
+Resolving master.urbanterror.info
+master.urbanterror.info resolved to 168.119.32.222:27900
+Sending heartbeat to master.urbanterror.info
+Resolving master2.urbanterror.info
+master2.urbanterror.info resolved to 168.119.32.222:27900
+Sending heartbeat to master2.urbanterror.info
+Resolving master.quake3arena.com:27950
+master.quake3arena.com:27950 resolved to 198.20.216.53:27950
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+broadcast: print "Timelimit hit.\n"
+Exit: Timelimit hit.
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+==== ShutdownGame ====
+ShutdownGame:
+------------------------------------------------------------
+------ Server Initialization ------
+Server: ut4_icygalaxy1a
+Hunk_Clear: reset the hunk ok
+Current search path:
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_qvm.pk3 (4 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_021.pk3 (85 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_020.pk3 (295 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_019.pk3 (342 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_018.pk3 (801 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_017.pk3 (734 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_016.pk3 (487 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_015.pk3 (60 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_014.pk3 (510 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_013.pk3 (353 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_012.pk3 (271 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_011.pk3 (478 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_010.pk3 (1423 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_009.pk3 (476 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_008.pk3 (962 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_007.pk3 (368 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_006.pk3 (553 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_005.pk3 (898 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_004.pk3 (558 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_003.pk3 (53 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_002.pk3 (100 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_001.pk3 (759 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut4_smoothicyb8f.pk3 (168 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut4_icyuniverse_b5.pk3 (298 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut4_icykarnival_b1y.pk3 (239 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut4_icygalaxy1a.pk3 (218 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut4_icyacer_b2.pk3 (362 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut4_icecoldicy004.pk3 (255 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut4_blackicy_beta1_0.pk3 (144 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_simonced_icy_b1.pk3 (178 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_pwnz_icyjumps_b1.pk3 (33 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_psychedelic.pk3 (134 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_infinityicy_b1.pk3 (249 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_icyworld1b.pk3 (300 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_icyunleashed.pk3 (146 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_icysequel1a.pk3 (90 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_icyjumps5d.pk3 (271 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_icyfunspot.pk3 (386 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_icyfantasy1a.pk3 (134 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_cosmic_icyjumps_b2.pk3 (132 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_comedyworld_icyjumps_b3.pk3 (263 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\simonced_icy21.pk3 (178 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\icy_phenom.pk3 (106 files)
+D:\Pingperfect\Users\rayg\7268019/q3ut4
+D:\Pingperfect\Users\rayg\7268019/q3ut4/download
+
+handle 1: qconsole.log
+----------------------
+44562 files in pk3 files
+Loading vm file vm/qagame.qvm...
+VM file qagame compiled to 2311993 bytes of code
+qagame loaded in 68304480 bytes on the hunk
+------- Game Initialization -------
+name: q3urt43
+version: 4.3.4
+date: Jun 18 2018
+------------------------------------------------------------
+InitGame: \sv_allowdownload\0\g_matchmode\0\g_gametype\9\sv_maxclients\8\sv_floodprotect\0\capturelimit\0\sv_hostname\Miku_Fanboy Classic Icy Jumps\g_followstrict\0\fraglimit\0\timelimit\60\g_swaproles\0\g_roundtime\2\g_hotpotato\1\g_waverespawns\0\g_redwave\5\g_bluewave\5\g_respawndelay\1\g_suddendeath\0\g_maxrounds\0\g_friendlyfire\0\g_allowvote\536870914\g_armbands\0\g_funstuff\1\g_instagib\0\g_stamina\1\g_walljumps\3\g_stratTime\5\g_nameBlue\Ukraine\g_nameRed\Russia\g_deadchat\2\g_maxGameClients\0\g_skins\1\auth_owners\1485\auth_notoriety\0\auth_enable\1\sv_dlURL\http://redirect.pingperfecthosting.com/7268019/\sv_clientsPerIp\3\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_minRate\0\version\ioQ3 1.35 urt 4.3.4 win-x86 Jun  6 2018\protocol\68\mapname\ut4_icygalaxy1a\sv_privateClients\0\ Admin\PureFilth  \ Email\purefilth @ urbanterror forums\gamename\q3urt43\g_needpass\0\g_enableDust\0\g_enableBreath\0\g_antilagvis\0\g_survivor\0\g_enablePrecip\0\auth\1\auth_status\public\g_modversion\4.3.4
+0 teams with 0 entities
+^3Warning: Not enough spawn groups to for gametype (9) on this map, trying another gametype
+-----------------------------------
+auth: resolving authserver address 
+auth: resolved 
+InitAuth: \auth\1\auth_status\public\auth_cheaters\0\auth_tags\0\auth_notoriety\0\auth_groups\\auth_owners\1485\auth_verbosity\0
+auth: sending heartbeat 
+-----------------------------------
+Hitch warning: 506 msec frame time
+Resolving master.urbanterror.info
+master.urbanterror.info resolved to 168.119.32.222:27900
+Sending heartbeat to master.urbanterror.info
+Resolving master2.urbanterror.info
+master2.urbanterror.info resolved to 168.119.32.222:27900
+Sending heartbeat to master2.urbanterror.info
+Resolving master.quake3arena.com:27950
+master.quake3arena.com:27950 resolved to 198.20.216.53:27950
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+broadcast: print "Timelimit hit.\n"
+Exit: Timelimit hit.
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+==== ShutdownGame ====
+ShutdownGame:
+------------------------------------------------------------
+------ Server Initialization ------
+Server: ut43_icyfunspot
+Hunk_Clear: reset the hunk ok
+Current search path:
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_qvm.pk3 (4 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_021.pk3 (85 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_020.pk3 (295 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_019.pk3 (342 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_018.pk3 (801 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_017.pk3 (734 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_016.pk3 (487 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_015.pk3 (60 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_014.pk3 (510 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_013.pk3 (353 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_012.pk3 (271 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_011.pk3 (478 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_010.pk3 (1423 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_009.pk3 (476 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_008.pk3 (962 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_007.pk3 (368 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_006.pk3 (553 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_005.pk3 (898 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_004.pk3 (558 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_003.pk3 (53 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_002.pk3 (100 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_001.pk3 (759 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut4_smoothicyb8f.pk3 (168 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut4_icyuniverse_b5.pk3 (298 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut4_icykarnival_b1y.pk3 (239 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut4_icygalaxy1a.pk3 (218 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut4_icyacer_b2.pk3 (362 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut4_icecoldicy004.pk3 (255 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut4_blackicy_beta1_0.pk3 (144 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_simonced_icy_b1.pk3 (178 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_pwnz_icyjumps_b1.pk3 (33 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_psychedelic.pk3 (134 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_infinityicy_b1.pk3 (249 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_icyworld1b.pk3 (300 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_icyunleashed.pk3 (146 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_icysequel1a.pk3 (90 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_icyjumps5d.pk3 (271 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_icyfunspot.pk3 (386 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_icyfantasy1a.pk3 (134 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_cosmic_icyjumps_b2.pk3 (132 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_comedyworld_icyjumps_b3.pk3 (263 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\simonced_icy21.pk3 (178 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\icy_phenom.pk3 (106 files)
+D:\Pingperfect\Users\rayg\7268019/q3ut4
+D:\Pingperfect\Users\rayg\7268019/q3ut4/download
+
+handle 1: qconsole.log
+----------------------
+59416 files in pk3 files
+Loading vm file vm/qagame.qvm...
+VM file qagame compiled to 2311993 bytes of code
+qagame loaded in 68304480 bytes on the hunk
+------- Game Initialization -------
+name: q3urt43
+version: 4.3.4
+date: Jun 18 2018
+------------------------------------------------------------
+InitGame: \sv_allowdownload\0\g_matchmode\0\g_gametype\9\sv_maxclients\8\sv_floodprotect\0\capturelimit\0\sv_hostname\Miku_Fanboy Classic Icy Jumps\g_followstrict\0\fraglimit\0\timelimit\60\g_swaproles\0\g_roundtime\2\g_hotpotato\1\g_waverespawns\0\g_redwave\5\g_bluewave\5\g_respawndelay\1\g_suddendeath\0\g_maxrounds\0\g_friendlyfire\0\g_allowvote\536870914\g_armbands\0\g_funstuff\1\g_instagib\0\g_stamina\1\g_walljumps\3\g_stratTime\5\g_nameBlue\Ukraine\g_nameRed\Russia\g_deadchat\2\g_maxGameClients\0\g_skins\1\auth_owners\1485\auth_notoriety\0\auth_enable\1\sv_dlURL\http://redirect.pingperfecthosting.com/7268019/\sv_clientsPerIp\3\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_minRate\0\version\ioQ3 1.35 urt 4.3.4 win-x86 Jun  6 2018\protocol\68\mapname\ut43_icyfunspot\sv_privateClients\0\ Admin\PureFilth  \ Email\purefilth @ urbanterror forums\gamename\q3urt43\g_needpass\0\g_enableDust\0\g_enableBreath\0\g_antilagvis\0\g_survivor\0\g_enablePrecip\1\auth\1\auth_status\public\g_modversion\4.3.4
+Warning:  spawn ignored due to lack of team association
+Warning:  spawn ignored due to lack of team association
+Warning:  spawn ignored due to lack of team association
+Warning:  spawn ignored due to lack of team association
+0 teams with 0 entities
+^3Warning: Not enough spawn groups to for gametype (9) on this map, trying another gametype
+-----------------------------------
+auth: resolving authserver address 
+auth: resolved 
+InitAuth: \auth\1\auth_status\public\auth_cheaters\0\auth_tags\0\auth_notoriety\0\auth_groups\\auth_owners\1485\auth_verbosity\0
+auth: sending heartbeat 
+-----------------------------------
+Hitch warning: 503 msec frame time
+Resolving master.urbanterror.info
+master.urbanterror.info resolved to 168.119.32.222:27900
+Sending heartbeat to master.urbanterror.info
+Resolving master2.urbanterror.info
+master2.urbanterror.info resolved to 168.119.32.222:27900
+Sending heartbeat to master2.urbanterror.info
+Resolving master.quake3arena.com:27950
+master.quake3arena.com:27950 resolved to 198.20.216.53:27950
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+broadcast: print "Timelimit hit.\n"
+Exit: Timelimit hit.
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+==== ShutdownGame ====
+ShutdownGame:
+------------------------------------------------------------
+------ Server Initialization ------
+Server: ut43_icysequel1a
+Hunk_Clear: reset the hunk ok
+Current search path:
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_qvm.pk3 (4 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_021.pk3 (85 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_020.pk3 (295 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_019.pk3 (342 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_018.pk3 (801 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_017.pk3 (734 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_016.pk3 (487 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_015.pk3 (60 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_014.pk3 (510 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_013.pk3 (353 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_012.pk3 (271 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_011.pk3 (478 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_010.pk3 (1423 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_009.pk3 (476 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_008.pk3 (962 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_007.pk3 (368 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_006.pk3 (553 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_005.pk3 (898 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_004.pk3 (558 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_003.pk3 (53 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_002.pk3 (100 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_001.pk3 (759 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut4_smoothicyb8f.pk3 (168 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut4_icyuniverse_b5.pk3 (298 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut4_icykarnival_b1y.pk3 (239 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut4_icygalaxy1a.pk3 (218 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut4_icyacer_b2.pk3 (362 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut4_icecoldicy004.pk3 (255 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut4_blackicy_beta1_0.pk3 (144 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_simonced_icy_b1.pk3 (178 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_pwnz_icyjumps_b1.pk3 (33 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_psychedelic.pk3 (134 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_infinityicy_b1.pk3 (249 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_icyworld1b.pk3 (300 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_icyunleashed.pk3 (146 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_icysequel1a.pk3 (90 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_icyjumps5d.pk3 (271 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_icyfunspot.pk3 (386 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_icyfantasy1a.pk3 (134 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_cosmic_icyjumps_b2.pk3 (132 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_comedyworld_icyjumps_b3.pk3 (263 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\simonced_icy21.pk3 (178 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\icy_phenom.pk3 (106 files)
+D:\Pingperfect\Users\rayg\7268019/q3ut4
+D:\Pingperfect\Users\rayg\7268019/q3ut4/download
+
+handle 1: qconsole.log
+----------------------
+74270 files in pk3 files
+Loading vm file vm/qagame.qvm...
+VM file qagame compiled to 2311993 bytes of code
+qagame loaded in 68304480 bytes on the hunk
+------- Game Initialization -------
+name: q3urt43
+version: 4.3.4
+date: Jun 18 2018
+------------------------------------------------------------
+InitGame: \sv_allowdownload\0\g_matchmode\0\g_gametype\9\sv_maxclients\8\sv_floodprotect\0\capturelimit\0\sv_hostname\Miku_Fanboy Classic Icy Jumps\g_followstrict\0\fraglimit\0\timelimit\60\g_swaproles\0\g_roundtime\2\g_hotpotato\1\g_waverespawns\0\g_redwave\5\g_bluewave\5\g_respawndelay\1\g_suddendeath\0\g_maxrounds\0\g_friendlyfire\0\g_allowvote\536870914\g_armbands\0\g_funstuff\1\g_instagib\0\g_stamina\1\g_walljumps\3\g_stratTime\5\g_nameBlue\Ukraine\g_nameRed\Russia\g_deadchat\2\g_maxGameClients\0\g_skins\1\auth_owners\1485\auth_notoriety\0\auth_enable\1\sv_dlURL\http://redirect.pingperfecthosting.com/7268019/\sv_clientsPerIp\3\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_minRate\0\version\ioQ3 1.35 urt 4.3.4 win-x86 Jun  6 2018\protocol\68\mapname\ut43_icysequel1a\sv_privateClients\0\ Admin\PureFilth  \ Email\purefilth @ urbanterror forums\gamename\q3urt43\g_needpass\0\g_enableDust\0\g_enableBreath\0\g_antilagvis\0\g_survivor\0\g_enablePrecip\0\auth\1\auth_status\public\g_modversion\4.3.4
+2 teams with 32 entities
+^3Warning: Not enough spawn groups to for gametype (9) on this map, trying another gametype
+^3Warning: spawn groups from gametype 7 used in place of missing gametype 9 spawns.
+-----------------------------------
+auth: resolving authserver address 
+auth: resolved 
+InitAuth: \auth\1\auth_status\public\auth_cheaters\0\auth_tags\0\auth_notoriety\0\auth_groups\\auth_owners\1485\auth_verbosity\0
+auth: sending heartbeat 
+-----------------------------------
+Resolving master.urbanterror.info
+master.urbanterror.info resolved to 168.119.32.222:27900
+Sending heartbeat to master.urbanterror.info
+Resolving master2.urbanterror.info
+master2.urbanterror.info resolved to 168.119.32.222:27900
+Sending heartbeat to master2.urbanterror.info
+Resolving master.quake3arena.com:27950
+master.quake3arena.com:27950 resolved to 198.20.216.53:27950
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+broadcast: print "Timelimit hit.\n"
+Exit: Timelimit hit.
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+==== ShutdownGame ====
+ShutdownGame:
+------------------------------------------------------------
+------ Server Initialization ------
+Server: ut43_icyworld1b
+Hunk_Clear: reset the hunk ok
+Current search path:
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_qvm.pk3 (4 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_021.pk3 (85 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_020.pk3 (295 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_019.pk3 (342 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_018.pk3 (801 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_017.pk3 (734 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_016.pk3 (487 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_015.pk3 (60 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_014.pk3 (510 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_013.pk3 (353 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_012.pk3 (271 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_011.pk3 (478 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_010.pk3 (1423 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_009.pk3 (476 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_008.pk3 (962 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_007.pk3 (368 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_006.pk3 (553 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_005.pk3 (898 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_004.pk3 (558 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_003.pk3 (53 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_002.pk3 (100 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_001.pk3 (759 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut4_smoothicyb8f.pk3 (168 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut4_icyuniverse_b5.pk3 (298 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut4_icykarnival_b1y.pk3 (239 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut4_icygalaxy1a.pk3 (218 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut4_icyacer_b2.pk3 (362 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut4_icecoldicy004.pk3 (255 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut4_blackicy_beta1_0.pk3 (144 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_simonced_icy_b1.pk3 (178 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_pwnz_icyjumps_b1.pk3 (33 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_psychedelic.pk3 (134 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_infinityicy_b1.pk3 (249 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_icyworld1b.pk3 (300 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_icyunleashed.pk3 (146 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_icysequel1a.pk3 (90 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_icyjumps5d.pk3 (271 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_icyfunspot.pk3 (386 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_icyfantasy1a.pk3 (134 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_cosmic_icyjumps_b2.pk3 (132 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_comedyworld_icyjumps_b3.pk3 (263 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\simonced_icy21.pk3 (178 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\icy_phenom.pk3 (106 files)
+D:\Pingperfect\Users\rayg\7268019/q3ut4
+D:\Pingperfect\Users\rayg\7268019/q3ut4/download
+
+handle 1: qconsole.log
+----------------------
+89124 files in pk3 files
+Loading vm file vm/qagame.qvm...
+VM file qagame compiled to 2311993 bytes of code
+qagame loaded in 68304480 bytes on the hunk
+------- Game Initialization -------
+name: q3urt43
+version: 4.3.4
+date: Jun 18 2018
+------------------------------------------------------------
+InitGame: \sv_allowdownload\0\g_matchmode\0\g_gametype\9\sv_maxclients\8\sv_floodprotect\0\capturelimit\0\sv_hostname\Miku_Fanboy Classic Icy Jumps\g_followstrict\0\fraglimit\0\timelimit\60\g_swaproles\0\g_roundtime\2\g_hotpotato\1\g_waverespawns\0\g_redwave\5\g_bluewave\5\g_respawndelay\1\g_suddendeath\0\g_maxrounds\0\g_friendlyfire\0\g_allowvote\536870914\g_armbands\0\g_funstuff\1\g_instagib\0\g_stamina\1\g_walljumps\3\g_stratTime\5\g_nameBlue\Ukraine\g_nameRed\Russia\g_deadchat\2\g_maxGameClients\0\g_skins\1\auth_owners\1485\auth_notoriety\0\auth_enable\1\sv_dlURL\http://redirect.pingperfecthosting.com/7268019/\sv_clientsPerIp\3\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_minRate\0\version\ioQ3 1.35 urt 4.3.4 win-x86 Jun  6 2018\protocol\68\mapname\ut43_icyworld1b\sv_privateClients\0\ Admin\PureFilth  \ Email\purefilth @ urbanterror forums\gamename\q3urt43\g_needpass\0\g_enableDust\0\g_enableBreath\0\g_antilagvis\0\g_survivor\0\g_enablePrecip\0\auth\1\auth_status\public\g_modversion\4.3.4
+2 teams with 32 entities
+^3Warning: Not enough spawn groups to for gametype (9) on this map, trying another gametype
+^3Warning: spawn groups from gametype 7 used in place of missing gametype 9 spawns.
+-----------------------------------
+auth: resolving authserver address 
+auth: resolved 
+InitAuth: \auth\1\auth_status\public\auth_cheaters\0\auth_tags\0\auth_notoriety\0\auth_groups\\auth_owners\1485\auth_verbosity\0
+auth: sending heartbeat 
+-----------------------------------
+Hitch warning: 583 msec frame time
+Resolving master.urbanterror.info
+master.urbanterror.info resolved to 168.119.32.222:27900
+Sending heartbeat to master.urbanterror.info
+Resolving master2.urbanterror.info
+master2.urbanterror.info resolved to 168.119.32.222:27900
+Sending heartbeat to master2.urbanterror.info
+Resolving master.quake3arena.com:27950
+master.quake3arena.com:27950 resolved to 198.20.216.53:27950
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+broadcast: print "Timelimit hit.\n"
+Exit: Timelimit hit.
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+==== ShutdownGame ====
+ShutdownGame:
+------------------------------------------------------------
+------ Server Initialization ------
+Server: ut4_icyacer_b2
+Hunk_Clear: reset the hunk ok
+Current search path:
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_qvm.pk3 (4 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_021.pk3 (85 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_020.pk3 (295 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_019.pk3 (342 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_018.pk3 (801 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_017.pk3 (734 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_016.pk3 (487 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_015.pk3 (60 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_014.pk3 (510 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_013.pk3 (353 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_012.pk3 (271 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_011.pk3 (478 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_010.pk3 (1423 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_009.pk3 (476 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_008.pk3 (962 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_007.pk3 (368 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_006.pk3 (553 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_005.pk3 (898 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_004.pk3 (558 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_003.pk3 (53 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_002.pk3 (100 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_001.pk3 (759 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut4_smoothicyb8f.pk3 (168 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut4_icyuniverse_b5.pk3 (298 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut4_icykarnival_b1y.pk3 (239 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut4_icygalaxy1a.pk3 (218 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut4_icyacer_b2.pk3 (362 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut4_icecoldicy004.pk3 (255 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut4_blackicy_beta1_0.pk3 (144 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_simonced_icy_b1.pk3 (178 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_pwnz_icyjumps_b1.pk3 (33 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_psychedelic.pk3 (134 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_infinityicy_b1.pk3 (249 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_icyworld1b.pk3 (300 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_icyunleashed.pk3 (146 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_icysequel1a.pk3 (90 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_icyjumps5d.pk3 (271 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_icyfunspot.pk3 (386 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_icyfantasy1a.pk3 (134 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_cosmic_icyjumps_b2.pk3 (132 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_comedyworld_icyjumps_b3.pk3 (263 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\simonced_icy21.pk3 (178 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\icy_phenom.pk3 (106 files)
+D:\Pingperfect\Users\rayg\7268019/q3ut4
+D:\Pingperfect\Users\rayg\7268019/q3ut4/download
+
+handle 1: qconsole.log
+----------------------
+103978 files in pk3 files
+Loading vm file vm/qagame.qvm...
+VM file qagame compiled to 2311993 bytes of code
+qagame loaded in 68304480 bytes on the hunk
+------- Game Initialization -------
+name: q3urt43
+version: 4.3.4
+date: Jun 18 2018
+------------------------------------------------------------
+InitGame: \sv_allowdownload\0\g_matchmode\0\g_gametype\9\sv_maxclients\8\sv_floodprotect\0\capturelimit\0\sv_hostname\Miku_Fanboy Classic Icy Jumps\g_followstrict\0\fraglimit\0\timelimit\60\g_swaproles\0\g_roundtime\2\g_hotpotato\1\g_waverespawns\0\g_redwave\5\g_bluewave\5\g_respawndelay\1\g_suddendeath\0\g_maxrounds\0\g_friendlyfire\0\g_allowvote\536870914\g_armbands\0\g_funstuff\1\g_instagib\0\g_stamina\1\g_walljumps\3\g_stratTime\5\g_nameBlue\Ukraine\g_nameRed\Russia\g_deadchat\2\g_maxGameClients\0\g_skins\1\auth_owners\1485\auth_notoriety\0\auth_enable\1\sv_dlURL\http://redirect.pingperfecthosting.com/7268019/\sv_clientsPerIp\3\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_minRate\0\version\ioQ3 1.35 urt 4.3.4 win-x86 Jun  6 2018\protocol\68\mapname\ut4_icyacer_b2\sv_privateClients\0\ Admin\PureFilth  \ Email\purefilth @ urbanterror forums\gamename\q3urt43\g_needpass\0\g_enableDust\0\g_enableBreath\0\g_antilagvis\0\g_survivor\0\g_enablePrecip\2\auth\1\auth_status\public\g_modversion\4.3.4
+Warning:  spawn ignored due to lack of team association
+Warning:  spawn ignored due to lack of team association
+Warning:  spawn ignored due to lack of team association
+Warning:  spawn ignored due to lack of team association
+Warning:  spawn ignored due to lack of team association
+Warning:  spawn ignored due to lack of team association
+Warning:  spawn ignored due to lack of team association
+Warning:  spawn ignored due to lack of team association
+0 teams with 0 entities
+^3Warning: Not enough spawn groups to for gametype (9) on this map, trying another gametype
+-----------------------------------
+auth: resolving authserver address 
+auth: resolved 
+InitAuth: \auth\1\auth_status\public\auth_cheaters\0\auth_tags\0\auth_notoriety\0\auth_groups\\auth_owners\1485\auth_verbosity\0
+auth: sending heartbeat 
+-----------------------------------
+Hitch warning: 504 msec frame time
+Resolving master.urbanterror.info
+master.urbanterror.info resolved to 168.119.32.222:27900
+Sending heartbeat to master.urbanterror.info
+Resolving master2.urbanterror.info
+master2.urbanterror.info resolved to 168.119.32.222:27900
+Sending heartbeat to master2.urbanterror.info
+Resolving master.quake3arena.com:27950
+master.quake3arena.com:27950 resolved to 198.20.216.53:27950
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+broadcast: print "Timelimit hit.\n"
+Exit: Timelimit hit.
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+==== ShutdownGame ====
+ShutdownGame:
+------------------------------------------------------------
+------ Server Initialization ------
+Server: ut43_infinityicy_b1
+Hunk_Clear: reset the hunk ok
+Current search path:
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_qvm.pk3 (4 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_021.pk3 (85 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_020.pk3 (295 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_019.pk3 (342 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_018.pk3 (801 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_017.pk3 (734 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_016.pk3 (487 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_015.pk3 (60 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_014.pk3 (510 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_013.pk3 (353 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_012.pk3 (271 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_011.pk3 (478 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_010.pk3 (1423 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_009.pk3 (476 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_008.pk3 (962 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_007.pk3 (368 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_006.pk3 (553 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_005.pk3 (898 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_004.pk3 (558 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_003.pk3 (53 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_002.pk3 (100 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_001.pk3 (759 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut4_smoothicyb8f.pk3 (168 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut4_icyuniverse_b5.pk3 (298 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut4_icykarnival_b1y.pk3 (239 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut4_icygalaxy1a.pk3 (218 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut4_icyacer_b2.pk3 (362 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut4_icecoldicy004.pk3 (255 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut4_blackicy_beta1_0.pk3 (144 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_simonced_icy_b1.pk3 (178 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_pwnz_icyjumps_b1.pk3 (33 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_psychedelic.pk3 (134 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_infinityicy_b1.pk3 (249 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_icyworld1b.pk3 (300 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_icyunleashed.pk3 (146 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_icysequel1a.pk3 (90 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_icyjumps5d.pk3 (271 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_icyfunspot.pk3 (386 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_icyfantasy1a.pk3 (134 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_cosmic_icyjumps_b2.pk3 (132 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_comedyworld_icyjumps_b3.pk3 (263 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\simonced_icy21.pk3 (178 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\icy_phenom.pk3 (106 files)
+D:\Pingperfect\Users\rayg\7268019/q3ut4
+D:\Pingperfect\Users\rayg\7268019/q3ut4/download
+
+handle 1: qconsole.log
+----------------------
+118832 files in pk3 files
+Loading vm file vm/qagame.qvm...
+VM file qagame compiled to 2311993 bytes of code
+qagame loaded in 68304480 bytes on the hunk
+------- Game Initialization -------
+name: q3urt43
+version: 4.3.4
+date: Jun 18 2018
+------------------------------------------------------------
+InitGame: \sv_allowdownload\0\g_matchmode\0\g_gametype\9\sv_maxclients\8\sv_floodprotect\0\capturelimit\0\sv_hostname\Miku_Fanboy Classic Icy Jumps\g_followstrict\0\fraglimit\0\timelimit\60\g_swaproles\0\g_roundtime\2\g_hotpotato\1\g_waverespawns\0\g_redwave\5\g_bluewave\5\g_respawndelay\1\g_suddendeath\0\g_maxrounds\0\g_friendlyfire\0\g_allowvote\536870914\g_armbands\0\g_funstuff\1\g_instagib\0\g_stamina\1\g_walljumps\3\g_stratTime\5\g_nameBlue\Ukraine\g_nameRed\Russia\g_deadchat\2\g_maxGameClients\0\g_skins\1\auth_owners\1485\auth_notoriety\0\auth_enable\1\sv_dlURL\http://redirect.pingperfecthosting.com/7268019/\sv_clientsPerIp\3\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_minRate\0\version\ioQ3 1.35 urt 4.3.4 win-x86 Jun  6 2018\protocol\68\mapname\ut43_infinityicy_b1\sv_privateClients\0\ Admin\PureFilth  \ Email\purefilth @ urbanterror forums\gamename\q3urt43\g_needpass\0\g_enableDust\0\g_enableBreath\0\g_antilagvis\0\g_survivor\0\g_enablePrecip\0\auth\1\auth_status\public\g_modversion\4.3.4
+2 teams with 16 entities
+^3Warning: Not enough spawn groups to for gametype (9) on this map, trying another gametype
+^3Warning: spawn groups from gametype 7 used in place of missing gametype 9 spawns.
+-----------------------------------
+auth: resolving authserver address 
+auth: resolved 
+InitAuth: \auth\1\auth_status\public\auth_cheaters\0\auth_tags\0\auth_notoriety\0\auth_groups\\auth_owners\1485\auth_verbosity\0
+auth: sending heartbeat 
+-----------------------------------
+Resolving master.urbanterror.info
+master.urbanterror.info resolved to 168.119.32.222:27900
+Sending heartbeat to master.urbanterror.info
+Resolving master2.urbanterror.info
+master2.urbanterror.info resolved to 168.119.32.222:27900
+Sending heartbeat to master2.urbanterror.info
+Resolving master.quake3arena.com:27950
+master.quake3arena.com:27950 resolved to 198.20.216.53:27950
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+broadcast: print "Timelimit hit.\n"
+Exit: Timelimit hit.
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+==== ShutdownGame ====
+ShutdownGame:
+------------------------------------------------------------
+------ Server Initialization ------
+Server: ut43_icyjumps5d
+Hunk_Clear: reset the hunk ok
+Current search path:
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_qvm.pk3 (4 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_021.pk3 (85 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_020.pk3 (295 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_019.pk3 (342 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_018.pk3 (801 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_017.pk3 (734 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_016.pk3 (487 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_015.pk3 (60 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_014.pk3 (510 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_013.pk3 (353 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_012.pk3 (271 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_011.pk3 (478 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_010.pk3 (1423 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_009.pk3 (476 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_008.pk3 (962 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_007.pk3 (368 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_006.pk3 (553 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_005.pk3 (898 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_004.pk3 (558 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_003.pk3 (53 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_002.pk3 (100 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_001.pk3 (759 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut4_smoothicyb8f.pk3 (168 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut4_icyuniverse_b5.pk3 (298 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut4_icykarnival_b1y.pk3 (239 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut4_icygalaxy1a.pk3 (218 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut4_icyacer_b2.pk3 (362 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut4_icecoldicy004.pk3 (255 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut4_blackicy_beta1_0.pk3 (144 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_simonced_icy_b1.pk3 (178 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_pwnz_icyjumps_b1.pk3 (33 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_psychedelic.pk3 (134 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_infinityicy_b1.pk3 (249 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_icyworld1b.pk3 (300 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_icyunleashed.pk3 (146 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_icysequel1a.pk3 (90 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_icyjumps5d.pk3 (271 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_icyfunspot.pk3 (386 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_icyfantasy1a.pk3 (134 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_cosmic_icyjumps_b2.pk3 (132 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_comedyworld_icyjumps_b3.pk3 (263 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\simonced_icy21.pk3 (178 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\icy_phenom.pk3 (106 files)
+D:\Pingperfect\Users\rayg\7268019/q3ut4
+D:\Pingperfect\Users\rayg\7268019/q3ut4/download
+
+handle 1: qconsole.log
+----------------------
+133686 files in pk3 files
+Loading vm file vm/qagame.qvm...
+VM file qagame compiled to 2311993 bytes of code
+qagame loaded in 68304480 bytes on the hunk
+------- Game Initialization -------
+name: q3urt43
+version: 4.3.4
+date: Jun 18 2018
+------------------------------------------------------------
+InitGame: \sv_allowdownload\0\g_matchmode\0\g_gametype\9\sv_maxclients\8\sv_floodprotect\0\capturelimit\0\sv_hostname\Miku_Fanboy Classic Icy Jumps\g_followstrict\0\fraglimit\0\timelimit\60\g_swaproles\0\g_roundtime\2\g_hotpotato\1\g_waverespawns\0\g_redwave\5\g_bluewave\5\g_respawndelay\1\g_suddendeath\0\g_maxrounds\0\g_friendlyfire\0\g_allowvote\536870914\g_armbands\0\g_funstuff\1\g_instagib\0\g_stamina\1\g_walljumps\3\g_stratTime\5\g_nameBlue\Ukraine\g_nameRed\Russia\g_deadchat\2\g_maxGameClients\0\g_skins\1\auth_owners\1485\auth_notoriety\0\auth_enable\1\sv_dlURL\http://redirect.pingperfecthosting.com/7268019/\sv_clientsPerIp\3\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_minRate\0\version\ioQ3 1.35 urt 4.3.4 win-x86 Jun  6 2018\protocol\68\mapname\ut43_icyjumps5d\sv_privateClients\0\ Admin\PureFilth  \ Email\purefilth @ urbanterror forums\gamename\q3urt43\g_needpass\0\g_enableDust\0\g_enableBreath\0\g_antilagvis\0\g_survivor\0\g_enablePrecip\0\auth\1\auth_status\public\g_modversion\4.3.4
+2 teams with 16 entities
+^3Warning: Not enough spawn groups to for gametype (9) on this map, trying another gametype
+^3Warning: spawn groups from gametype 7 used in place of missing gametype 9 spawns.
+-----------------------------------
+auth: resolving authserver address 
+auth: resolved 
+InitAuth: \auth\1\auth_status\public\auth_cheaters\0\auth_tags\0\auth_notoriety\0\auth_groups\\auth_owners\1485\auth_verbosity\0
+auth: sending heartbeat 
+-----------------------------------
+Hitch warning: 513 msec frame time
+Resolving master.urbanterror.info
+master.urbanterror.info resolved to 168.119.32.222:27900
+Sending heartbeat to master.urbanterror.info
+Resolving master2.urbanterror.info
+master2.urbanterror.info resolved to 168.119.32.222:27900
+Sending heartbeat to master2.urbanterror.info
+Resolving master.quake3arena.com:27950
+master.quake3arena.com:27950 resolved to 198.20.216.53:27950
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+broadcast: print "Timelimit hit.\n"
+Exit: Timelimit hit.
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+==== ShutdownGame ====
+ShutdownGame:
+------------------------------------------------------------
+------ Server Initialization ------
+Server: ut43_comedyworld_icyjumps_b3
+Hunk_Clear: reset the hunk ok
+Current search path:
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_qvm.pk3 (4 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_021.pk3 (85 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_020.pk3 (295 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_019.pk3 (342 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_018.pk3 (801 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_017.pk3 (734 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_016.pk3 (487 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_015.pk3 (60 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_014.pk3 (510 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_013.pk3 (353 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_012.pk3 (271 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_011.pk3 (478 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_010.pk3 (1423 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_009.pk3 (476 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_008.pk3 (962 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_007.pk3 (368 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_006.pk3 (553 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_005.pk3 (898 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_004.pk3 (558 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_003.pk3 (53 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_002.pk3 (100 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_001.pk3 (759 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut4_smoothicyb8f.pk3 (168 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut4_icyuniverse_b5.pk3 (298 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut4_icykarnival_b1y.pk3 (239 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut4_icygalaxy1a.pk3 (218 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut4_icyacer_b2.pk3 (362 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut4_icecoldicy004.pk3 (255 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut4_blackicy_beta1_0.pk3 (144 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_simonced_icy_b1.pk3 (178 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_pwnz_icyjumps_b1.pk3 (33 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_psychedelic.pk3 (134 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_infinityicy_b1.pk3 (249 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_icyworld1b.pk3 (300 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_icyunleashed.pk3 (146 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_icysequel1a.pk3 (90 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_icyjumps5d.pk3 (271 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_icyfunspot.pk3 (386 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_icyfantasy1a.pk3 (134 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_cosmic_icyjumps_b2.pk3 (132 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_comedyworld_icyjumps_b3.pk3 (263 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\simonced_icy21.pk3 (178 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\icy_phenom.pk3 (106 files)
+D:\Pingperfect\Users\rayg\7268019/q3ut4
+D:\Pingperfect\Users\rayg\7268019/q3ut4/download
+
+handle 1: qconsole.log
+----------------------
+148540 files in pk3 files
+Loading vm file vm/qagame.qvm...
+VM file qagame compiled to 2311993 bytes of code
+qagame loaded in 68304480 bytes on the hunk
+------- Game Initialization -------
+name: q3urt43
+version: 4.3.4
+date: Jun 18 2018
+------------------------------------------------------------
+InitGame: \sv_allowdownload\0\g_matchmode\0\g_gametype\9\sv_maxclients\8\sv_floodprotect\0\capturelimit\0\sv_hostname\Miku_Fanboy Classic Icy Jumps\g_followstrict\0\fraglimit\0\timelimit\60\g_swaproles\0\g_roundtime\2\g_hotpotato\1\g_waverespawns\0\g_redwave\5\g_bluewave\5\g_respawndelay\1\g_suddendeath\0\g_maxrounds\0\g_friendlyfire\0\g_allowvote\536870914\g_armbands\0\g_funstuff\1\g_instagib\0\g_stamina\1\g_walljumps\3\g_stratTime\5\g_nameBlue\Ukraine\g_nameRed\Russia\g_deadchat\2\g_maxGameClients\0\g_skins\1\auth_owners\1485\auth_notoriety\0\auth_enable\1\sv_dlURL\http://redirect.pingperfecthosting.com/7268019/\sv_clientsPerIp\3\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_minRate\0\version\ioQ3 1.35 urt 4.3.4 win-x86 Jun  6 2018\protocol\68\mapname\ut43_comedyworld_icyjumps_b3\sv_privateClients\0\ Admin\PureFilth  \ Email\purefilth @ urbanterror forums\gamename\q3urt43\g_needpass\0\g_enableDust\0\g_enableBreath\0\g_antilagvis\0\g_survivor\0\g_enablePrecip\0\auth\1\auth_status\public\g_modversion\4.3.4
+0 teams with 0 entities
+^3Warning: Not enough spawn groups to for gametype (9) on this map, trying another gametype
+-----------------------------------
+auth: resolving authserver address 
+auth: resolved 
+InitAuth: \auth\1\auth_status\public\auth_cheaters\0\auth_tags\0\auth_notoriety\0\auth_groups\\auth_owners\1485\auth_verbosity\0
+auth: sending heartbeat 
+-----------------------------------
+Resolving master.urbanterror.info
+master.urbanterror.info resolved to 168.119.32.222:27900
+Sending heartbeat to master.urbanterror.info
+Resolving master2.urbanterror.info
+master2.urbanterror.info resolved to 168.119.32.222:27900
+Sending heartbeat to master2.urbanterror.info
+Resolving master.quake3arena.com:27950
+master.quake3arena.com:27950 resolved to 198.20.216.53:27950
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Info string length exceeded
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Info string length exceeded
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Info string length exceeded
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Info string length exceeded
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Info string length exceeded
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Info string length exceeded
+broadcast: print "Timelimit hit.\n"
+Exit: Timelimit hit.
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+==== ShutdownGame ====
+ShutdownGame:
+------------------------------------------------------------
+------ Server Initialization ------
+Server: ut43_icyfantasy1a
+Hunk_Clear: reset the hunk ok
+Current search path:
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_qvm.pk3 (4 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_021.pk3 (85 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_020.pk3 (295 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_019.pk3 (342 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_018.pk3 (801 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_017.pk3 (734 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_016.pk3 (487 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_015.pk3 (60 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_014.pk3 (510 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_013.pk3 (353 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_012.pk3 (271 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_011.pk3 (478 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_010.pk3 (1423 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_009.pk3 (476 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_008.pk3 (962 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_007.pk3 (368 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_006.pk3 (553 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_005.pk3 (898 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_004.pk3 (558 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_003.pk3 (53 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_002.pk3 (100 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_001.pk3 (759 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut4_smoothicyb8f.pk3 (168 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut4_icyuniverse_b5.pk3 (298 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut4_icykarnival_b1y.pk3 (239 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut4_icygalaxy1a.pk3 (218 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut4_icyacer_b2.pk3 (362 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut4_icecoldicy004.pk3 (255 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut4_blackicy_beta1_0.pk3 (144 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_simonced_icy_b1.pk3 (178 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_pwnz_icyjumps_b1.pk3 (33 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_psychedelic.pk3 (134 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_infinityicy_b1.pk3 (249 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_icyworld1b.pk3 (300 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_icyunleashed.pk3 (146 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_icysequel1a.pk3 (90 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_icyjumps5d.pk3 (271 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_icyfunspot.pk3 (386 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_icyfantasy1a.pk3 (134 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_cosmic_icyjumps_b2.pk3 (132 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_comedyworld_icyjumps_b3.pk3 (263 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\simonced_icy21.pk3 (178 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\icy_phenom.pk3 (106 files)
+D:\Pingperfect\Users\rayg\7268019/q3ut4
+D:\Pingperfect\Users\rayg\7268019/q3ut4/download
+
+handle 1: qconsole.log
+----------------------
+163394 files in pk3 files
+Loading vm file vm/qagame.qvm...
+VM file qagame compiled to 2311993 bytes of code
+qagame loaded in 68304480 bytes on the hunk
+------- Game Initialization -------
+name: q3urt43
+version: 4.3.4
+date: Jun 18 2018
+------------------------------------------------------------
+InitGame: \sv_allowdownload\0\g_matchmode\0\g_gametype\9\sv_maxclients\8\sv_floodprotect\0\capturelimit\0\sv_hostname\Miku_Fanboy Classic Icy Jumps\g_followstrict\0\fraglimit\0\timelimit\60\g_swaproles\0\g_roundtime\2\g_hotpotato\1\g_waverespawns\0\g_redwave\5\g_bluewave\5\g_respawndelay\1\g_suddendeath\0\g_maxrounds\0\g_friendlyfire\0\g_allowvote\536870914\g_armbands\0\g_funstuff\1\g_instagib\0\g_stamina\1\g_walljumps\3\g_stratTime\5\g_nameBlue\Ukraine\g_nameRed\Russia\g_deadchat\2\g_maxGameClients\0\g_skins\1\auth_owners\1485\auth_notoriety\0\auth_enable\1\sv_dlURL\http://redirect.pingperfecthosting.com/7268019/\sv_clientsPerIp\3\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_minRate\0\version\ioQ3 1.35 urt 4.3.4 win-x86 Jun  6 2018\protocol\68\mapname\ut43_icyfantasy1a\sv_privateClients\0\ Admin\PureFilth  \ Email\purefilth @ urbanterror forums\gamename\q3urt43\g_needpass\0\g_enableDust\0\g_enableBreath\0\g_antilagvis\0\g_survivor\0\g_enablePrecip\0\auth\1\auth_status\public\g_modversion\4.3.4
+2 teams with 16 entities
+^3Warning: Not enough spawn groups to for gametype (9) on this map, trying another gametype
+^3Warning: spawn groups from gametype 7 used in place of missing gametype 9 spawns.
+-----------------------------------
+auth: resolving authserver address 
+auth: resolved 
+InitAuth: \auth\1\auth_status\public\auth_cheaters\0\auth_tags\0\auth_notoriety\0\auth_groups\\auth_owners\1485\auth_verbosity\0
+auth: sending heartbeat 
+-----------------------------------
+Hitch warning: 520 msec frame time
+Resolving master.urbanterror.info
+master.urbanterror.info resolved to 168.119.32.222:27900
+Sending heartbeat to master.urbanterror.info
+Resolving master2.urbanterror.info
+master2.urbanterror.info resolved to 168.119.32.222:27900
+Sending heartbeat to master2.urbanterror.info
+Resolving master.quake3arena.com:27950
+master.quake3arena.com:27950 resolved to 198.20.216.53:27950
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+broadcast: print "Timelimit hit.\n"
+Exit: Timelimit hit.
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
+==== ShutdownGame ====
+ShutdownGame:
+------------------------------------------------------------
+------ Server Initialization ------
+Server: ut43_simonced_icy_b1
+Hunk_Clear: reset the hunk ok
+Current search path:
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_qvm.pk3 (4 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_021.pk3 (85 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_020.pk3 (295 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_019.pk3 (342 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_018.pk3 (801 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_017.pk3 (734 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_016.pk3 (487 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_015.pk3 (60 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_014.pk3 (510 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_013.pk3 (353 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_012.pk3 (271 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_011.pk3 (478 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_010.pk3 (1423 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_009.pk3 (476 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_008.pk3 (962 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_007.pk3 (368 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_006.pk3 (553 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_005.pk3 (898 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_004.pk3 (558 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_003.pk3 (53 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_002.pk3 (100 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\zUrT43_001.pk3 (759 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut4_smoothicyb8f.pk3 (168 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut4_icyuniverse_b5.pk3 (298 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut4_icykarnival_b1y.pk3 (239 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut4_icygalaxy1a.pk3 (218 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut4_icyacer_b2.pk3 (362 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut4_icecoldicy004.pk3 (255 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut4_blackicy_beta1_0.pk3 (144 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_simonced_icy_b1.pk3 (178 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_pwnz_icyjumps_b1.pk3 (33 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_psychedelic.pk3 (134 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_infinityicy_b1.pk3 (249 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_icyworld1b.pk3 (300 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_icyunleashed.pk3 (146 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_icysequel1a.pk3 (90 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_icyjumps5d.pk3 (271 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_icyfunspot.pk3 (386 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_icyfantasy1a.pk3 (134 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_cosmic_icyjumps_b2.pk3 (132 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\ut43_comedyworld_icyjumps_b3.pk3 (263 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\simonced_icy21.pk3 (178 files)
+D:\Pingperfect\Users\rayg\7268019\q3ut4\icy_phenom.pk3 (106 files)
+D:\Pingperfect\Users\rayg\7268019/q3ut4
+D:\Pingperfect\Users\rayg\7268019/q3ut4/download
+
+handle 1: qconsole.log
+----------------------
+178248 files in pk3 files
+Loading vm file vm/qagame.qvm...
+VM file qagame compiled to 2311993 bytes of code
+qagame loaded in 68304480 bytes on the hunk
+------- Game Initialization -------
+name: q3urt43
+version: 4.3.4
+date: Jun 18 2018
+------------------------------------------------------------
+InitGame: \sv_allowdownload\0\g_matchmode\0\g_gametype\9\sv_maxclients\8\sv_floodprotect\0\capturelimit\0\sv_hostname\Miku_Fanboy Classic Icy Jumps\g_followstrict\0\fraglimit\0\timelimit\60\g_swaproles\0\g_roundtime\2\g_hotpotato\1\g_waverespawns\0\g_redwave\5\g_bluewave\5\g_respawndelay\1\g_suddendeath\0\g_maxrounds\0\g_friendlyfire\0\g_allowvote\536870914\g_armbands\0\g_funstuff\1\g_instagib\0\g_stamina\1\g_walljumps\3\g_stratTime\5\g_nameBlue\Ukraine\g_nameRed\Russia\g_deadchat\2\g_maxGameClients\0\g_skins\1\auth_owners\1485\auth_notoriety\0\auth_enable\1\sv_dlURL\http://redirect.pingperfecthosting.com/7268019/\sv_clientsPerIp\3\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_minRate\0\version\ioQ3 1.35 urt 4.3.4 win-x86 Jun  6 2018\protocol\68\mapname\ut43_simonced_icy_b1\sv_privateClients\0\ Admin\PureFilth  \ Email\purefilth @ urbanterror forums\gamename\q3urt43\g_needpass\0\g_enableDust\0\g_enableBreath\0\g_antilagvis\0\g_survivor\0\g_enablePrecip\0\auth\1\auth_status\public\g_modversion\4.3.4
+0 teams with 0 entities
+^3Warning: Not enough spawn groups to for gametype (9) on this map, trying another gametype
+-----------------------------------
+auth: resolving authserver address 
+auth: resolved 
+InitAuth: \auth\1\auth_status\public\auth_cheaters\0\auth_tags\0\auth_notoriety\0\auth_groups\\auth_owners\1485\auth_verbosity\0
+auth: sending heartbeat 
+-----------------------------------
+Resolving master.urbanterror.info
+master.urbanterror.info resolved to 168.119.32.222:27900
+Sending heartbeat to master.urbanterror.info
+Resolving master2.urbanterror.info
+master2.urbanterror.info resolved to 168.119.32.222:27900
+Sending heartbeat to master2.urbanterror.info
+Resolving master.quake3arena.com:27950
+master.quake3arena.com:27950 resolved to 198.20.216.53:27950
+Sending heartbeat to master.quake3arena.com:27950
+Sending heartbeat to master.urbanterror.info
+Sending heartbeat to master2.urbanterror.info
+Sending heartbeat to master.quake3arena.com:27950
